@@ -19,7 +19,7 @@ Ao longo do estágio, entretanto, o projeto passou por novas necessidades:
 
 Este documento apresenta essa evolução e as principais decisões técnicas relacionadas à minha atuação.
 
-![Evolução do projeto](assets/diagramas/evolucao-projeto.drawio.svg)
+![Evolução do projeto](/assets/diagramas/evolucao-projeto.drawio.svg)
 
 ---
 
@@ -51,6 +51,7 @@ O primeiro desafio foi fazer essas duas estruturas coexistirem dentro da mesma a
 A solução inicial foi adicionar uma nova área chamada **JCPOLI** dentro do site da Escola Politécnica.
 
 ![JCPOLI integrada ao site da Escola Politécnica](../assets/screenshots/integracao-politecnica-jcpoli.png)
+#### Fonte: Imagem comprimida do Relatório JCPOLI
 
 A implementação envolveu trazer para a aplicação principal:
 
@@ -366,6 +367,7 @@ A aplicação deixou de precisar identificar quais elementos pertenciam à Escol
 Isso permitiu simplificar nomenclaturas que haviam sido necessárias durante a fase de integração.
 
 ![JCPOLI após a separação dos sites](../assets/screenshots/home-jcpoli-final.png)
+#### Fonte: Imagem comprimida do Relatório JCPOLI
 
 ---
 
