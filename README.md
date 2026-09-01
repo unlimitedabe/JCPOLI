@@ -45,6 +45,8 @@ Entre as principais contribuições estão:
 
 Uma das principais dificuldades do projeto foi permitir que diferentes edições da JCPOLI coexistissem dentro da mesma aplicação.
 
+![Seleção das edições da JCPOLI](assets/screenshots/edicoes-jcpoli.png)
+
 Cada edição possuía conteúdos, palestrantes, minicursos, competições e demais informações específicas.
 
 Como a versão em que trabalhei não utilizava um banco de dados externo para armazenar essas informações, foi necessário organizar os componentes e os dados de maneira que cada edição pudesse ser acessada separadamente sem comprometer a navegação e a manutenção do projeto.
@@ -153,10 +155,14 @@ Algumas das alterações preservadas no histórico incluem:
 
 ## Sobre o código original
 
-O desenvolvimento ocorreu neste repositório colaborativo utilizado pela equipe da JCPOLI: * [Repositório JCPOLI 3º Edição](https://github.com/unlimitedabe/JCPOLI-2024-3Ed).
+O desenvolvimento ocorreu neste repositório colaborativo [Repositório JCPOLI 3º Edição](https://github.com/unlimitedabe/JCPOLI-2024-3Ed) utilizado pela equipe da JCPOLI.
 
 Este repositório não replica todo o código original nem apresenta o projeto colaborativo como desenvolvimento individual.
 
 O objetivo é documentar especificamente as funcionalidades, decisões técnicas e alterações realizadas durante minha participação.
 
-````
+## Resultado
+
+Durante o projeto, a JCPOLI evoluiu para uma aplicação independente com suporte às diferentes edições do evento.
+
+![Página inicial da JCPOLI](assets/screenshots/home-jcpoli-final.png)

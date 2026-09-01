@@ -18,6 +18,8 @@ Na versão final da minha participação, o conteúdo das diferentes edições n
 
 As informações eram organizadas dentro da própria aplicação e carregadas de acordo com a edição acessada pelo usuário.
 
+![Arquitetura frontend da JCPOLI](assets/diagramas/arquitetura-frontend.drawio.svg)
+
 ---
 
 # Stack principal
@@ -226,6 +228,8 @@ Escola.vue
     ├── EscolaJ2.vue
     └── EscolaJ3.vue
 ```
+
+![Multiplas edições](assets/diagramas/estrutura-multiplas-edicoes.drawio.svg)
 
 A edição presente na navegação determinava qual componente seria exibido.
 

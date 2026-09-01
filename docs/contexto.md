@@ -90,6 +90,8 @@ mantendo as funcionalidades necessárias para o evento.
 
 Foi criada, por exemplo, uma área específica da JCPOLI dentro da aplicação e uma navegação própria para suas páginas.
 
+![JCPOLI integrada ao site da Escola Politécnica](../assets/screenshots/integracao-politecnica-jcpoli.png)
+
 ---
 
 # Evolução da necessidade
