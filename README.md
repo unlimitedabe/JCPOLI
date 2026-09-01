@@ -166,4 +166,4 @@ O objetivo é documentar especificamente as funcionalidades, decisões técnicas
 Durante o projeto, a JCPOLI evoluiu para uma aplicação independente com suporte às diferentes edições do evento.
 
 ![Página inicial da JCPOLI](assets/screenshots/home-jcpoli-final.png)
-### Fonte: Imagem comprimida do Relatório JCPOLI
+#### Fonte: Imagem comprimida do Relatório JCPOLI
