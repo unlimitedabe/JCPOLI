@@ -18,7 +18,7 @@ Na versão final da minha participação, o conteúdo das diferentes edições n
 
 As informações eram organizadas dentro da própria aplicação e carregadas de acordo com a edição acessada pelo usuário.
 
-![Arquitetura frontend da JCPOLI](assets/diagramas/arquitetura-frontend.drawio.svg)
+![Arquitetura frontend da JCPOLI](/assets/diagramas/arquitetura-frontend.drawio.svg)
 
 ---
 
