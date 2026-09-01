@@ -229,7 +229,7 @@ Escola.vue
     └── EscolaJ3.vue
 ```
 
-![Multiplas edições](assets/diagramas/estrutura-multiplas-edicoes.drawio.svg)
+![Multiplas edições](/assets/diagramas/estrutura-multiplas-edicoes.drawio.svg)
 
 A edição presente na navegação determinava qual componente seria exibido.
 
