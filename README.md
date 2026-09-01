@@ -46,6 +46,7 @@ Entre as principais contribuições estão:
 Uma das principais dificuldades do projeto foi permitir que diferentes edições da JCPOLI coexistissem dentro da mesma aplicação.
 
 ![Seleção das edições da JCPOLI](assets/screenshots/edicoes-jcpoli.png)
+###Fonte: Imagem comprimida do Relatório JCPOLI
 
 Cada edição possuía conteúdos, palestrantes, minicursos, competições e demais informações específicas.
 
