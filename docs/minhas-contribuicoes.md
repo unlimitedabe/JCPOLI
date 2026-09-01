@@ -201,8 +201,10 @@ As páginas utilizavam componentes Vue e arquivos TypeScript contendo os dados e
 Durante a evolução da 3ª edição, foram adicionadas novas áreas ao site.
 
 ![Ciência em Casa](../assets/screenshots/ciencia-em-casa.png)
+#### Fonte: Imagem comprimida do Relatório JCPOLI
 
 ![Fotos da JCPOLI](../assets/screenshots/fotos-jcpoli.png)
+#### Fonte: Imagem comprimida do Relatório JCPOLI
 
 Uma delas foi **Ciência em Casa**, incorporada à estrutura de navegação e aos dados da programação.
 
@@ -223,6 +225,7 @@ Essa funcionalidade passou a permitir a apresentação de registros visuais da e
 Também trabalhei na evolução da apresentação das informações dos eventos.
 
 ![Novo formato de apresentação de palestra](../assets/screenshots/palestra-perfil-certificado.png)
+#### Fonte: Imagem comprimida do Relatório JCPOLI
 
 As telas de **Palestras**, **Minicursos** e **Ciência em Casa** foram adaptadas para apresentar informações adicionais relacionadas aos palestrantes.
 
